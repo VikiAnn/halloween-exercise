@@ -8,6 +8,8 @@ class Bag
     @candies
   end
 
+  # a small edit lol
+
   def empty?
     candies.count == 0
   end
